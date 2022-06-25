@@ -1,5 +1,7 @@
 ### Hello Git! 👋
+
 💬 Linkedin: https://www.linkedin.com/in/fermyno-gutierrez/
+
 📫 fermyno[at]gmail.com
 
 <!--
