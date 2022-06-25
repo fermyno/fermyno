@@ -1,5 +1,6 @@
 ### Hello Git! 👋
 💬 Linkedin: https://www.linkedin.com/in/fermyno-gutierrez/
+📫 fermyno[at]gmail.com
 
 <!--
 **fermyno/fermyno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
