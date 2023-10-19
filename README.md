@@ -2,7 +2,7 @@
 
 > **Warning**
 > 
-> This page is under construction. In my free time, I'm uploading my projects. <br />
+> This page is under construction. In my free time, I'm uploading my projects.  
 > Thank you for your patience.
 
 
