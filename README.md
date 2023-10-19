@@ -1,6 +1,14 @@
 ### Hello Git! 👋
 
+> **Warning**
+> 
+> This page is under construction. In my free time, I'm uploading my projects.
+> Thank you for your patience.
+
+
 💬 Linkedin: https://www.linkedin.com/in/fermyno-gutierrez/
+
+
 
 <!--
 **fermyno/fermyno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
