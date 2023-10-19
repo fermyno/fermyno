@@ -5,7 +5,7 @@
 > This page is under construction. In my free time, I'm uploading my projects.  
 > Thank you for your patience.
 
-
+<br />
 💬 Linkedin: https://www.linkedin.com/in/fermyno-gutierrez/
 
 
